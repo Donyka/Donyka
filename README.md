@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://pibig.info/uploads/posts/2021-04/1619310269_14-pibig_info-p-anime-banner-anime-krasivo-18.jpg"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.youtube.com/@HaruDLC" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
   </a>
