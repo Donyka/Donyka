@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://pibig.info/uploads/posts/2021-04/1619310269_14-pibig_info-p-anime-banner-anime-krasivo-18.jpg"  />
+  <img height="150" src="https://pibig.info/uploads/posts/2021-04/1619310269_14-pibig_info-p-anime-banner-anime-krasivo-18.jpg"  />
 </div>
 
 ###
